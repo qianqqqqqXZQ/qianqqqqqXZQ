@@ -1,0 +1,54 @@
+<div align="center">
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Stay%20Hungry%20Stay%20Foolish%EF%BC%81&center=true&size=27"
+    alt="Typing SVG"
+  />
+</a>
+
+<br />
+
+<img
+  src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif"
+  alt="coding gif"
+  width="320"
+/>
+
+<br /><br />
+
+<h1>Hi 👋, I'm Ziqian XIONG.</h1>
+
+<p>
+  <a href="https://www.youtube.com/@ZiqianXiong3">
+    <img src="https://img.shields.io/badge/YouTube-Quentin-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  &emsp;
+  <a href="mailto:ziqianxiong3@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ziqianxiong3-EA4335?logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+</div>
+
+<img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" alt="divider" />
+
+<h3 align="left">Languages and Tools:</h3>
+<div>
+  
+<!-- gif -->
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/html.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/cssgif.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/vscode.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/python.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/js.webp">
+<img height="81" width="81" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/github.webp">
+
+<!-- svg -->
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="java" height="81" width="81" style="margin-right: 20px; margin-bottom: 0;" />
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
+</div>
