@@ -17,8 +17,8 @@
 
 <br /><br />
 
-<h1>Hi 👋, I'm Ziqian XIONG.</h1>
-
+<h1>Hey, I'm Ziqian XIONG.</h1>
+<img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>
 <p>
   <a href="https://www.youtube.com/@ZiqianXiong3">
     <img src="https://img.shields.io/badge/YouTube-Quentin-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
