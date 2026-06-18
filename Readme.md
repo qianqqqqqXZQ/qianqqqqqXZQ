@@ -17,7 +17,7 @@
 
 <br /><br />
 
-<h1>Hey, I'm Ziqian XIONG.</h1>
+<h1>Hey, I'm Ziqian XIONG
 <p>
   <a href="https://www.youtube.com/@ZiqianXiong3">
     <img src="https://img.shields.io/badge/YouTube-Quentin-FF0000?logo=youtube&logoColor=white" alt="YouTube" />
@@ -30,9 +30,15 @@
 
 </div>
 
-<p><img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/> Hello, I'm currently a computer science student in UNNC.</p>
+### <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>  Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+  
+:heart: Programming | :black_heart: locking | :blue_heart: 
+  
+I am a Computer Science Student in UNNC. I love Deep Learning, Computer Vision and Eembeded Systems. 
 
-<h3 align="left">📫 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
+- 💬 Ask me about anything. I will try to help you as much as I can.
+
+<h3 align="left">🚑 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
 
 **Supervisor: Prof. Fiseha Berhanu Tesema**
 -	Model Development and Implementation: Built a small polyp segmentation model on the OpenMMLab framework, integrating a dual-stream CNN-Transformer architecture with a Laplacian pyramid module and boundary-aware loss; implemented and debugged key sub-modules including CNN stream, Transformer stream, edge separation, attention fusion, and loss function.
