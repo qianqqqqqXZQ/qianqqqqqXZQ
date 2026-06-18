@@ -28,6 +28,7 @@
   </a>
 </p>
 
+
 </div>
 
 ### <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>  Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
@@ -46,6 +47,8 @@ I am a Computer Science Student in UNNC. I love Deep Learning, Computer Vision a
 -	Performance Evaluation: Conducted comparative experiments, validating the model’s performance using Dice, IoU, and inference speed metrics.
 -	Still in progress
 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" alt="divider" />
 
