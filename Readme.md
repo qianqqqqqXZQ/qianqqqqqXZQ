@@ -39,6 +39,14 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 
+
+<a href="https://pony.ai/" target="_blank">
+  <img align="right" width="144" src="https://ir.pony.ai/sites/g/files/knoqqb104676/themes/site/client_site/dist/images/logo.png" />
+</a>
+
+<h3 align="left">🐎 Pony.ai | Algorithm Engineer Intern | Jul. 2026 – Sep. 2026 📌</h3>
+
+
 <h3 align="left">🚑 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
 
 **Supervisor: Prof. Fiseha Berhanu Tesema**
