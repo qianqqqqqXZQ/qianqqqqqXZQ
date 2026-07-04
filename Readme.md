@@ -33,7 +33,7 @@
 
 ### <img src='https://x.tw93.fun/images/hi.gif' alt='Hi' width="20"/>  Hello World !  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
   
-:heart: Programming | :black_heart: locking | :blue_heart: music
+:heart: Programming | :black_heart: Locking | :blue_heart: Music
   
 I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Computer Vision and Dynamic Neural Network Scheduling. 
 
