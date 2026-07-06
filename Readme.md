@@ -84,3 +84,9 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianqqqqqqXZQ/qianqqqqqqXZQ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qianqqqqqqXZQ/qianqqqqqqXZQ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qianqqqqqqXZQ/qianqqqqqqXZQ/output/github-contribution-grid-snake.svg">
+</picture>
