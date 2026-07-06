@@ -86,7 +86,7 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianqqqqqqXZQ/qianqqqqqqXZQ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qianqqqqqqXZQ/qianqqqqqqXZQ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qianqqqqqqXZQ/qianqqqqqqXZQ/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake.svg">
 </picture>
