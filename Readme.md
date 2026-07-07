@@ -38,6 +38,7 @@
 I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Computer Vision and Dynamic Neural Network Scheduling. 
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
+- 😍 For more information of me click <a href=https://qqqqqprofile.vercel.app/>My Website</a>
 
 
 <a href="https://pony.ai/" target="_blank">
