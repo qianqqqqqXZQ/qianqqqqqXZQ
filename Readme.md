@@ -64,6 +64,13 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake.svg">
+</picture>
+
+
 <img width="100%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" alt="divider" />
 
 <h3 align="left">Languages and Tools:</h3>
@@ -86,8 +93,3 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 <img src="https://skillicons.dev/icons?i=anaconda,bash,c,cpp,d3,discord,django,docker,git,gitlab,gmail,htmx,idea,instagram,java,latex,linux,matlab,maven,mongodb,mysql,notion,obsidian,opencv,ps,powershell,pycharm,pytorch,r,raspberrypi,sqlite,stackoverflow,sklearn,tensorflow,twitter,ubuntu,vim,visualstudio" /><br>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/qianqqqqqXZQ/qianqqqqqXZQ/output/github-contribution-grid-snake.svg">
-</picture>
