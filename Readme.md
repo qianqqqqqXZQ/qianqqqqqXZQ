@@ -54,12 +54,14 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 -	Model Development and Implementation: Built a small polyp segmentation model on the OpenMMLab framework, integrating a dual-stream CNN-Transformer architecture with a Laplacian pyramid module and boundary-aware loss; implemented and debugged key sub-modules including CNN stream, Transformer stream, edge separation, attention fusion, and loss function.
 -	Dataset Preparation: Curated and preprocessed the Kvasir-SEG and ETIS-LaribPolypDB datasets, including normalization, annotation screening, and small-polyp subset partitioning.
 -	Performance Evaluation: Conducted comparative experiments, validating the model’s performance using Dice, IoU, and inference speed metrics.
--	Still in progress
+-	The relevant paper was submitted as the second author to BSPC.
 
 
 <h3 align="left">🎤 Dynamic Dual-Branch Neural Network for Personalized Keyword Spotting | June. 2026-Present📌</h3>
 
 **Supervisor: Prof. Heng Yu**
+- Using a dual-branch model based on multi-task learning for the KWS (Keyword Spotting) and SV (Speaker Verification) tasks.
+- Try to incorporate dynamic neural network scheduling (such as early exit) into the existing static model.
 -	Still in progress
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
