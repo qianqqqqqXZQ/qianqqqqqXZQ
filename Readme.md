@@ -47,6 +47,8 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 
 <h3 align="left">🐎 Pony.ai | Algorithm Engineer | Jul. 2026 – Sep. 2026 📌</h3>
 
+**Leader: Bo Xiao**
+-Research and reproduce VGGT and its variants, such as QVGGT, InfiniteVGGT, and VGGT4D, with a focus on adapting VGGT for autonomous driving deployment. Key directions include model quantization and converting the original model into a streaming architecture.
 
 <h3 align="left">🚑 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
 
