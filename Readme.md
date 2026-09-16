@@ -47,9 +47,10 @@ I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Comp
 
 <h3 align="left">🐎 Pony.ai | Algorithm Engineer | Jul. 2026 – Sep. 2026 📌</h3>
 
-**Leader: Bo Xiao**
-- Research and reproduce VGGT and its variants, such as QVGGT, InfiniteVGGT, and VGGT4D, with a focus on adapting VGGT for autonomous driving deployment. Key directions include model quantization and converting the original model into a streaming architecture.
-- Still in work
+**Leader: Yingying Wu**
+- Conduct a systematic investigation of cutting-edge VGGT-related 3D/4D reconstruction techniques, spanning scene-level reconstruction (QVGGT, Dynamic-VGGT, VGGT-4D, and VGGT-MPR) and object-level non-rigid reconstruction (MoSca); explore deployment pathways for autonomous-driving scene reconstruction and simulation.
+- For the company's existing object-level 3D reconstruction pipeline based on DA3 depth estimation and 3D Gaussian Splatting, introduced VGGT for comparative evaluation of multi-view geometry and depth estimation. Completed solution validation, engineering integration, and full-pipeline replacement, improving the reconstruction quality and stability of the 3D Gaussian representation.
+- Independently developed a 4D Gaussian Splatting (4DGS) point-cloud editing and comparison tool, which is now used by Pony.ai. Also researched agent-assisted development practices and documented internal standards for harness usage and loop engineering to improve the company's development efficiency.
 
 <h3 align="left">🚑 Edge-Enhanced Dual-Stream Transformer for Small Polyp Segmentation | May. 2025-Present📌</h3>
 
