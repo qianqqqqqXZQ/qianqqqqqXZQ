@@ -35,7 +35,7 @@
   
 :heart: Programming | :black_heart: Locking | :blue_heart: Music
   
-I am a Computer Science Student in UNNC. I am interesting in Deep Learning, Computer Vision and Dynamic Neural Network Scheduling. 
+I am a Computer Science Student in University of Nottingham Ningbo, China (UNNC). I am interesting in Deep Learning, Computer Vision and Dynamic Neural Network Scheduling. 
 
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - 😍 For more information of me click <a href=https://qqqqqprofile.vercel.app/>My Website</a>
