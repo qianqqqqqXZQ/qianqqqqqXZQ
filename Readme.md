@@ -42,7 +42,7 @@ I am a Computer Science Student in University of Nottingham Ningbo, China (UNNC)
 
 
 <a href="https://pony.ai/" target="_blank">
-  <img align="right" width="144" src="https://ir.pony.ai/sites/g/files/knoqqb104676/themes/site/client_site/dist/images/logo.png" />
+  <img align="right" width="144" src="https://static.cdn.xiaomazhixing.com/images/icon/icon-logo-152.png" />
 </a>
 
 <h3 align="left">🐎 Pony.ai | Algorithm Engineer | Jul. 2026 – Sep. 2026 📌</h3>
